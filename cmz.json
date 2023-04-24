@@ -1,17 +1,28 @@
 {
-//Welcome to CMZ FREENET
-"Version":"1.2",
-"Url":"https://github.com/chanmyae111/hnin/blob/main/hnin.zip?raw=true" ,
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.3",
+//link for server update
+"Url":"https://github.com/chanmyae111/hnin/blob/main/Download.zip?raw=true" ,
 "Changelog":"
-အားလံုးပဲမဂၤလာပါဗ်
-True & Dtac အေကာ့ေလ်ွာက္သံုးၾကပါ
-Proxy ေသတဲ့ေန႔ Update ထပ္လုပ္ေပးပါမယ္
+Latest update
+TRUE No Pro 7d
+DTAC No Pro 7d
+Edit the TRUE file.
+Edit DTAC files
+Add function to page load
+အားလံုးအဆင္ေျပၾကပါေစဗ်ာ
 ",
-//အဆင္ေျပၾကပါေစဗ်ာ🤗🤗🤗
-"LatestVersion":"1.0.0",
-"Latest VersionCode":"1",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
 "url": "",
-"releaseNotes":[
-"-Demo"
-]
+ "releaseNotes": [
+ "-Demo"
+  ]
 }
