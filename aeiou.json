@@ -1,15 +1,16 @@
 {
 // version for updating, if there is an update, need to change more numbers than before
-"Version":"1.1",
+"Version":"1.3",
 //link for server update
-"Url":"https://protect-link.duckdns.org/new2.zip" ,
+"Url":"https://github.com/chanmyae111/hnin/blob/main/Download.zip?raw=true" ,
 "Changelog":"
-Latest update 01/11/2022
-TRUE No Pro
-DTAC No Pro
+Latest update
+TRUE No Pro 7d
+DTAC No Pro 7d
 Edit the TRUE file.
 Edit DTAC files
 Add function to page load
+အားလံုးအဆင္ေျပၾကပါေစဗ်ာ
 ",
  
  
