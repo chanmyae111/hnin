@@ -1,0 +1,28 @@
+{
+// version for updating, if there is an update, need to change more numbers than before
+"Version":"1.1",
+//link for server update
+"Url":"https://github.com/chanmyae111/hnin/blob/main/vip.zip?raw=truep" ,
+"Changelog":"
+💖💖💖Welcome To CMZ💖💖💖
+©♥♥♥♥®TRUE VIP©♥♥♥♥®
+©♥♥♥♥®DTAC VIP©♥♥♥♥®
+TRUE files.
+DTAC files
+💖💖💖VIP ဖိုင္မ်ားဝယ္ယူႏိုင္ပါတယ္ဗ်ာ💖💖💖
+[♥♥♥©LOVE ALL MEMBERS♥♥♥®]
+",
+ 
+ 
+ 
+ 
+ 
+ 
+// don't mess with the bottom
+"latestVersion": "1.0.0",
+"latestVersionCode": "1",
+"url": "",
+ "releaseNotes": [
+ "-Demo"
+  ]
+}
